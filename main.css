@@ -70,7 +70,7 @@ nav li a:hover {
 }
 .hero img{
     width: 200px;
-    border-radius: 50%;
+    border-radius: 25%;
 }
 .hero h1{
     font-size: 2em;
